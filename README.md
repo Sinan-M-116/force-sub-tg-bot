@@ -9,9 +9,12 @@
 - [ ] LOGGER support.
 
 ### Configuration
- [APP_ID](https://my.telegram.org/apps)
- [API_HASH](https://my.telegram.org/apps)
- [BOT_TOKEN](https://t.me/botfather) 
+
+ ```APP_ID``` : it get in https://my.telegram.org/apps
+
+ ```API_HASH``` : it also get in https://my.telegram.org/apps
+
+ ```BOT_TOKEN``` : [@botfather](https://t.me/botfather)
 
 ### Deploy to heroku
 
