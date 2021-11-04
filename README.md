@@ -8,31 +8,13 @@
 - [X] Clean messages after completion
 - [ ] LOGGER support.
 
-## Deploy
-
-### Installation
-- Clone this repo
-```
-git clone https://github.com/viperadnan-git/force-subscribe-telegram-bot
-```
-- Change directory
-```
-cd force-subscribe-telegram-bot
-```
-- Install requirements
-```
-pip3 install -r requirements.txt
-```
-
 ### Configuration
 Add [APP_ID](https://my.telegram.org/apps), [API_HASH](https://my.telegram.org/apps), [BOT_TOKEN](https://t.me/botfather) in [Config.py](Config.py) or in Environment Variables.
 
-### Deploying
-- Run bot.py
-```
-python3 bot.py
-```
+### Deploy to heroku
+
+
 
 ## Thanks to
 - [PyroGram](https://PyroGram.org)
-- [Hasibul Kabir](https://GitHub.com/hasibulkabir) and [Spechide](https://GitHub.com/spechide) for helping.
+- [Spechide](https://GitHub.com/spechide) for helping.
