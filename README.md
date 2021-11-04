@@ -22,4 +22,4 @@
 
 ## Thanks to
 - [PyroGram](https://PyroGram.org)
-- [Spechide](https://GitHub.com/spechide) for helping.
+- [sinan coder](https://GitHub.com/Sinan-m-coder) for helping.
